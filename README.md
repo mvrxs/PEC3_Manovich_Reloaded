@@ -1,5 +1,11 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
+![Markdown](https://img.shields.io/badge/Format-Markdown-blue)
+![Cultura Digital](https://img.shields.io/badge/Topic-Cultura%20Digital-purple)
+![Hibridación](https://img.shields.io/badge/Concept-Hibridación-orange)
+![Ensayo](https://img.shields.io/badge/Type-Ensayo-lightgrey)
+![Creative Commons](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green)
+
 ### Recurso de aprendizaje de Cultura Digital 
 
 
