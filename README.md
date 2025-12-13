@@ -24,7 +24,10 @@ Lev Manovich define la **hibridación de medios** como un proceso en el que dist
 
 En la PEC3: Visionando el futuro con las gafas de Manovich, analizo dos casos contemporáneos —Apple Vision Pro y Google Arts & Culture— que podrían formar parte de una hipotética segunda edición de *El software toma el mando*. Ambos ejemplos permiten observar cómo el software no sólo reordena los medios existentes, sino que **redefine la percepción, el acceso a la cultura y las formas de interacción**, confirmando que la vigencia de las ideas de Manovich exisaten en el contexto digital actual.
 
-<br><br>
+<br>
+
+---
+
 ## 👁 Re-descubriendo la hibridación: Apple Vision Pro — Cuando el software se convierte en espacio
 
 ![Apple Vision Pro](https://help.apple.com/assets/68C0B0E64DD385E8DF03143F/68C0B0EBCA9A32F7CE0F9656/es_ES/76afaedc7453c3625a7a653798c030c1.png)
