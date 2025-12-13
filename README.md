@@ -6,7 +6,7 @@
 ![Ensayo](https://img.shields.io/badge/Type-Ensayo-lightgrey)
 ![Creative Commons](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green)
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <h3>Recurso de aprendizaje de Cultura Digital</h3>
