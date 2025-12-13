@@ -210,8 +210,9 @@ Según Manovich, Google Arts & Culture ejemplifica una **hibridación basada en 
 * Cámara RA y objetos 3D: https://artsandculture.google.com/project/art-camera
 
 **Cultura Digital y Patrimonio**
-* UNESCO — Patrimonio digital: https://www.unesco.org/es/legal-affairs/charter-preservation-digital-heritage
+* UNESCO Patrimonio digital: https://www.unesco.org/es/legal-affairs/charter-preservation-digital-heritage
 * MIT Technology Review: https://www.technologyreview.com/
+
 
 * ### Uso de la inteligencia artificial
 
