@@ -14,7 +14,7 @@ Autor: Marcos Díaz Simón
 
 Fecha: 09/12/2025
 
-![lev Manovich](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/1200px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg) 
+<!-- ![lev Manovich](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/1200px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg) -->
 
 
 
