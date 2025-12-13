@@ -8,8 +8,10 @@
 
 ### Recurso de aprendizaje de Cultura Digital 
 <p align="right">
-Autor: Marcos Díaz Simón
-Fecha: 09/12/2025
+     Autor: Marcos Díaz Simón
+</p>
+<p align="right">
+     Fecha: 09/12/2025
 </p>
 <!-- ![lev Manovich](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/1200px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg) -->
 
