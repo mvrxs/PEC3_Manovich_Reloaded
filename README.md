@@ -5,8 +5,9 @@
 ![Hibridación](https://img.shields.io/badge/Concept-Hibridación-orange)
 ![Ensayo](https://img.shields.io/badge/Type-Ensayo-lightgrey)
 ![Creative Commons](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green)
-
+<p align="right">
 ### Recurso de aprendizaje de Cultura Digital 
+</p>
 <p align="right">
      Autor: Marcos Díaz Simón
 </p>
