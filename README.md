@@ -9,12 +9,9 @@
 <table>
   <tr>
     <td>
-
-### Recurso de aprendizaje de Cultura Digital  
-
-Autor: **Marcos Díaz Simón**  
-Fecha: **09/12/2025**
-
+      <h3>Recurso de aprendizaje de Cultura Digital</h3>
+      <p><strong>Autor:</strong> Marcos Díaz Simón<br>
+      <strong>Fecha:</strong> 09/12/2025</p>
     </td>
     <td align="right">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/600px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg"
@@ -23,7 +20,6 @@ Fecha: **09/12/2025**
     </td>
   </tr>
 </table>
-
 <!-- ![lev Manovich](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/1200px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg) -->
 
 
