@@ -214,7 +214,7 @@ Según Manovich, Google Arts & Culture ejemplifica una **hibridación basada en 
 * MIT Technology Review: https://www.technologyreview.com/
 
 
-* ### Uso de la inteligencia artificial
+### Uso de la inteligencia artificial
 
 En la elaboración de esta PEC se ha utilizado inteligencia artificial de forma limitada y conforme a las indicaciones del curso. Concretamente, se ha empleado como apoyo para la **revisión sintáctica y estilística del texto**, la **organización del contenido en formato Markdown** y la **orientación conceptual inicial** sobre los casos de estudio. El análisis, la argumentación, la selección de ejemplos y la reflexión crítica se han desarrollado de manera personal, basándose en la lectura de Manovich y en la interpretación propia de los casos analizados, siguiendo las recomendaciones de la guía de citación de IA de la UOC.
 
