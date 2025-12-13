@@ -15,7 +15,9 @@ Fecha: 09/12/2025
 ## Planteamiento
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lev Manovich define la **hibridación de medios** como un proceso en el que distintos medios previamente diferenciados no solo se combinan, sino que **fusionan sus técnicas, métodos y formas de representación**, dando lugar a un nuevo medio con lógica propia. A diferencia de la multimedia —donde los medios coexisten—, la hibridación implica una integración profunda que genera nuevas y mejores experiencias culturales, estéticas o interactivas.
+
+En la PEC3: Visionando el futuro con las gafas de Manovich, analizo dos casos contemporáneos —Apple Vision Pro y Google Arts & Culture— que podrían formar parte de una hipotética segunda edición de *El software toma el mando*. Ambos ejemplos permiten observar cómo el software no sólo reordena los medios existentes, sino que **redefine la percepción, el acceso a la cultura y las formas de interacción**, confirmando que la vigencia de las ideas de Manovich exisaten en el contexto digital actual.
 
 
 ## 👁 Re-descubriendo la hibridación: Apple Vision Pro — Cuando el software se convierte en espacio
@@ -31,7 +33,6 @@ Apple Vision Pro supone un cambio cultural que ningún dispositivo previo había
 ### 🧩 La hibridación hecha percepción
 
 Vision Pro no solo proyecta capas digitales sobre lo real; **programa la percepción**. El usuario decide el tamaño, profundidad e iluminación de aquello que ve. Así, tareas como ver cine, trabajar o conversar dejan de estar asociadas a dispositivos específicos, convirtiéndose en **módulos de experiencia**, tal como describe Manovich cuando afirma que el software reorganiza la cultura en elementos combinables.
-
 Esto supone una ruptura con la lógica de “consumir medios frente a una pantalla”:  
 **el medio se despliega alrededor del usuario**.
 
@@ -82,6 +83,8 @@ Si nuestros recuerdos se experimentan en primera persona,
 ---
 
 ### 🧾 Resumen: ¿Por qué Apple Vision Pro es hibridación según Manovich?
+
+Desde la perspectiva de Manovich, Apple Vision Pro puede entenderse como un caso de **hibridación profunda por mutación**, donde técnicas del cine, la interfaz gráfica, la simulación espacial y la interacción corporal se fusionan para crear un nuevo medio perceptivo.
 
 | Antes | Ahora |
 |-------|------|
@@ -170,6 +173,7 @@ significa **explorar, tocar, probar, comparar, modificar**.
 ---
 
 ### 🧾 Resumen: ¿Por qué Google Arts & Culture es hibridación según Manovich?
+Según Manovich, Google Arts & Culture ejemplifica una **hibridación basada en la base de datos y el algoritmo**, donde archivo, museo y plataforma educativa se integran en un nuevo medio cultural navegable y reconfigurable.
 
 | Antes | Ahora |
 |-------|------|
@@ -195,12 +199,16 @@ significa **explorar, tocar, probar, comparar, modificar**.
 **Google Arts & Culture**
 * Página oficial del proyecto: https://artsandculture.google.com/
 * Experimento “Art Transfer”: https://artsandculture.google.com/camera/art-transfer
-* Experimento “Blob Opera”: https://artsandculture.google.com/experiment/blob-opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en&cp=e30.
+* Experimento “Blob Opera”: https://artsandculture.google.com/experiment/blob-opera
 * Cámara RA y objetos 3D: https://artsandculture.google.com/project/art-camera
 
 **Cultura Digital y Patrimonio**
 * UNESCO — Patrimonio digital: https://www.unesco.org/es/legal-affairs/charter-preservation-digital-heritage
 * MIT Technology Review: https://www.technologyreview.com/
+
+* ### Uso de la inteligencia artificial
+
+En la elaboración de esta PEC se ha utilizado inteligencia artificial de forma limitada y conforme a las indicaciones del curso. Concretamente, se ha empleado como apoyo para la **revisión sintáctica y estilística del texto**, la **organización del contenido en formato Markdown** y la **orientación conceptual inicial** sobre los casos de estudio. El análisis, la argumentación, la selección de ejemplos y la reflexión crítica se han desarrollado de manera personal, basándose en la lectura de Manovich y en la interpretación propia de los casos analizados, siguiendo las recomendaciones de la guía de citación de IA de la UOC.
 
 ----
 
