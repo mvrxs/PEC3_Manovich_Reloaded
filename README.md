@@ -6,20 +6,14 @@
 ![Ensayo](https://img.shields.io/badge/Type-Ensayo-lightgrey)
 ![Creative Commons](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green)
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <h3>Recurso de aprendizaje de Cultura Digital</h3>
-      <p><strong>Autor:</strong> Marcos Díaz Simón<br>
-      <strong>Fecha:</strong> 09/12/2025</p>
-    </td>
-    <td align="right">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/600px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg"
-           alt="Lev Manovich"
-           width="220" />
-    </td>
-  </tr>
-</table>
+### Recurso de aprendizaje de Cultura Digital  
+
+Autor: **Marcos Díaz Simón**  
+Fecha: **09/12/2025**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/600px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg"
+     alt="Lev Manovich"
+     width="220"
+     align="right" />
 <!-- ![lev Manovich](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/1200px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg) -->
 
 
