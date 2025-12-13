@@ -14,7 +14,6 @@ Fecha: **09/12/2025**
 <!-- ![lev Manovich](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/1200px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg) -->
 
 
-
 ## Planteamiento
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg/600px-Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg"
      alt="Lev Manovich"
@@ -23,6 +22,7 @@ Fecha: **09/12/2025**
 Lev Manovich define la **hibridación de medios** como un proceso en el que distintos medios previamente diferenciados no solo se combinan, sino que **fusionan sus técnicas, métodos y formas de representación**, dando lugar a un nuevo medio con lógica propia. A diferencia de la multimedia —donde los medios coexisten—, la hibridación implica una integración profunda que genera nuevas y mejores experiencias culturales, estéticas o interactivas.
 
 
+<br><br>
 
 
 ## 
