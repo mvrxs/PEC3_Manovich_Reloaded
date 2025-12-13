@@ -107,7 +107,7 @@ Desde la perspectiva de Manovich, Apple Vision Pro puede entenderse como un caso
 
 ## 🏛 Re-descubriendo la hibridación: Google Arts & Culture — El museo que existe dentro y fuera del mundo
 
-![Google Arts and Culture](https://auca.es/wp-content/uploads/2021/03/unnamed-1.png)
+![Google Arts and Culture](https://cdn-3.expansion.mx/dims4/default/4879f7d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fdb%2Fc5%2F7badc5284a67868b859534a9908a%2Farte-expansion2.0_google-art.jpg)
 
 > **“El museo deja de ser lugar y se convierte en interfaz.”**
 
