@@ -210,7 +210,7 @@ Según Manovich, Google Arts & Culture ejemplifica una **hibridación basada en 
 **Google Arts & Culture**
 * Página oficial del proyecto: https://artsandculture.google.com/
 * Experimento “Art Transfer”: https://artsandculture.google.com/camera/art-transfer
-* Experimento “Blob Opera”: https://artsandculture.google.com/experiment/blob-opera
+* Experimento “Blob Opera”: https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en
 * Cámara RA y objetos 3D: https://artsandculture.google.com/project/art-camera
 
 **Cultura Digital y Patrimonio**
@@ -220,7 +220,7 @@ Según Manovich, Google Arts & Culture ejemplifica una **hibridación basada en 
 
 ### Uso de la inteligencia artificial
 
-En la elaboración de esta PEC se ha utilizado inteligencia artificial de forma **puntual y limitada**, conforme a las indicaciones del curso. Su uso se ha restringido a la **exploración inicial de posibles temas**, la **orientación general previa al desarrollo del trabajo**, la **detección y corrección de faltas sintácticas y ortográficas** y la **organización del contenido en formato Markdown**.
+En la elaboración de esta PEC se ha utilizado chatGPT 5.2 de forma **puntual y limitada**, conforme a las indicaciones del curso. Su uso se ha restringido a la **exploración inicial de posibles temas**, la **orientación general previa al desarrollo del trabajo**, la **detección y corrección de faltas sintácticas y ortográficas** y la **organización del contenido en formato Markdown**.
 
 La **redacción del texto**, el **desarrollo del análisis**, la **argumentación**, la **selección definitiva de los casos de estudio** y la **reflexión crítica** han sido realizados de manera personal, a partir de la lectura de *El software toma el mando* de Lev Manovich y de la interpretación propia de los ejemplos analizados, siguiendo las recomendaciones de la guía de citación de IA de la UOC.
 
